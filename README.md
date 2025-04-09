@@ -1,4 +1,4 @@
-## Hi 👋[
+## Hi 👋
 ![image](https://github.com/user-attachments/assets/fcd25c54-3d87-492e-bacb-f33f30f785bb)
 
 
