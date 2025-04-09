@@ -1,7 +1,4 @@
-
-
-![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/user-attachments/assets/c35112aa-679e-4707-9f70-39b0fa0196c1)
-
+Hi
 
 ![ronaldo](https://github.com/user-attachments/assets/c2f48036-123e-4ba7-9a6b-bc3e6dc22f46)
 
