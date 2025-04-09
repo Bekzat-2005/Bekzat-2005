@@ -1,4 +1,5 @@
 ## Hi 👋
+<img src="https://media.tenor.com/FWOD7nN9oLAAAAAi/cat-cute.gif" width="200"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baymukach-bekzat-bb21b12b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baymukach@gmail.com) 
