@@ -1,5 +1,6 @@
-## Hi 👋
-![image](https://github.com/user-attachments/assets/bc3bd375-d119-4341-a858-dbc6c55c36c9)
+## Hi 👋[
+[![image](https://github.com/user-attachments/assets/fae4ff98-f7b5-4ae4-a7b2-668b987cff28)](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+
 
 
 # 💻 Tech Stack:
