@@ -1,5 +1,7 @@
 ## Hi 👋
-![Ronaldo](https://media.tenor.com/qOxJ8VEWil4AAAAC/ronaldo.gif)
+
+<img src="./images/ronaldo.gif" width="300"/>
+
 
 
 
