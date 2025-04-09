@@ -1,7 +1,6 @@
 ## Hi 👋
-<p align="center">
-  <img src="https://media.tenor.com/qOxJ8VEWil4AAAAC/ronaldo.gif" width="300" alt="Ronaldo Celebration"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sayan123&theme=tokyonight&hide_border=true)
+
 
 
 # 💻 Tech Stack:
